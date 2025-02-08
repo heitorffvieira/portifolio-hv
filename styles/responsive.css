@@ -1,6 +1,6 @@
 @media screen and (max-width:576px){
     .container-1 {
-        padding: 10vh 5vh 0vh 5vh;
+        padding: 5vh 5vh 0vh 5vh;
     }
 
     #simbolo-menu-mobile {
@@ -136,7 +136,7 @@
 
 @media screen and (min-width: 576px) and (max-width:768px){
     .container-1 {
-        padding: 10vh 5vh 0vh 5vh;
+        padding: 5vh 5vh 0vh 5vh;
     }
 
     #simbolo-menu-mobile {
