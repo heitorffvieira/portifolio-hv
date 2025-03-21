@@ -631,34 +631,30 @@ footer {
     transition-delay: 450ms;
 }
 
-.cards-my-skills div:nth-child(1){
+.cards-my-skills div:nth-child(2){
     transition-delay: 140ms;
 }
 
-.cards-my-skills div:nth-child(2){
+.cards-my-skills div:nth-child(3){
     transition-delay: 240ms;
 }
 
-.cards-my-skills div:nth-child(3){
+.cards-my-skills div:nth-child(4){
     transition-delay: 340ms;
 }
 
-.cards-my-skills div:nth-child(4){
+.cards-my-skills div:nth-child(5){
     transition-delay: 440ms;
 }
 
-.cards-my-skills div:nth-child(5){
+.cards-my-skills div:nth-child(6){
     transition-delay: 540ms;
 }
 
-.cards-my-skills div:nth-child(6){
+.cards-my-skills div:nth-child(7){
     transition-delay: 640ms;
 }
 
-.cards-my-skills div:nth-child(7){
-    transition-delay: 740ms;
-}
-
 .cards-my-skills div:nth-child(8){
-    transition-delay: 840ms;
+    transition-delay: 940ms;
 }
