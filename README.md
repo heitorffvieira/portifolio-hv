@@ -5,10 +5,8 @@
 ![image](https://github.com/user-attachments/assets/7d0f0d5f-b503-4e51-b2c1-ccd837f124f2)
 ![image](https://github.com/user-attachments/assets/47db7277-4aeb-4f69-8b23-a4d2f466f717)
 ![image](https://github.com/user-attachments/assets/c5d4c8f7-6bb3-48b0-a002-bd22481f0f87)
-![image](https://github.com/user-attachments/assets/55751e3b-0ca2-4d49-9eb3-cdc2a8abf81a)
 ![image](https://github.com/user-attachments/assets/7680b22c-a0dd-4e99-a0d2-11626549c679)
 ![image](https://github.com/user-attachments/assets/42f8baa8-5b74-4a48-a456-3f49f6283f91)
-![image](https://github.com/user-attachments/assets/fe49544e-a676-468f-836a-796506d8005c)
 
 ## 🤖 TECNOLOGIAS USADAS:
 
