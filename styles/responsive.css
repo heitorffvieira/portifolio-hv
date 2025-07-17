@@ -424,6 +424,12 @@
     }
 }
 
+@media screen and (min-width: 1500px) {
+    .meus-projetos {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 @media screen and (min-width: 992px) and (max-width: 1220px){
 
     .container-3 {

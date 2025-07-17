@@ -14,6 +14,7 @@
 
 body {
     background-color: #ececec;
+    overflow-x: hidden;
 }
 
 body::-webkit-scrollbar {
@@ -379,12 +380,11 @@ body::-webkit-scrollbar-thumb {
 .title-projeto {
     font-weight: 500;
     font-size: 1.3rem;
-    height: 3rem; 
+    height: 4rem; 
     display: flex;
     align-items: center;
-    text-align: center;
+    text-align: left;
     overflow: hidden; 
-    white-space: nowrap;
 }
 
 
